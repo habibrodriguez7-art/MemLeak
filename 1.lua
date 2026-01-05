@@ -1,5 +1,5 @@
 -- LynxGUI_v2.3.lua - Optimized Edition with Anti-DupliQSawd
--- FREE NOT FOR SALE
+-- FREE NOT FOR SALEsddddd
 
 repeat task.wait() until game:IsLoaded()
 
@@ -305,7 +305,7 @@ end
 -- ============================================
 -- SECURITY LOADER
 -- ============================================
-local SecurityLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/habibrodriguez7-art/GuiBaru/refs/heads/main/SecurityLoader.lua"))()
+local SecurityLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/habibrodriguez7-art/MemLeak/refs/heads/main/SecurityLoader.lua"))()
 
 -- Load all modules from CombinedModules
 local CombinedModules = SecurityLoader.LoadModule("CombinedModules")
